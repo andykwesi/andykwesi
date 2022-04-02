@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter for cross-platform development
 - 👯 I’m looking to collaborate on multiple projects to help build my skills
 - 📫 How to reach me: andykwesi1@gmail.com
--->
