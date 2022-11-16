@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mobile payment system<br>👯  I’m looking to collaborate on multiple projects to help build my skillsn<br>🌱 I’m currently learning flutter for cross-platform development<br>💬 Ask me about at andykwesi1@gmail.com<br>
+🔭 I’m currently working on a mobile payment system<br>👯  I’m looking to collaborate on multiple projects to help build my skills<br>🌱 I’m currently learning flutter for cross-platform development<br>💬 Ask me about at andykwesi1@gmail.com<br>
 
 
 ## 🌐 Socials:
